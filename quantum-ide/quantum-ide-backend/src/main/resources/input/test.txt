@@ -1,0 +1,4 @@
+QUBIT q$;          // il carattere $ non è previsto
+bit c;             // token bit non riconosciuto
+H q#;              // carattere speciale #
+"chiusura;         // manca la chiusura di stringa     
