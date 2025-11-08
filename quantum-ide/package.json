@@ -1,0 +1,9 @@
+{
+  "name": "quantum-app-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend:dev": "cd frontend && npm install && npm run dev",
+    "frontend:build": "cd frontend && npm install && npm run build"
+  }
+}
