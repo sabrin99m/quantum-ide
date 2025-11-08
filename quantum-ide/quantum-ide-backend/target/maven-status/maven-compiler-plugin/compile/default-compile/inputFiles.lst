@@ -1,0 +1,15 @@
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\CircuitOperation.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\CompilerController.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\ErrorCollectingQuantumLexer.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\ErrorCollectingQuantumParser.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\FrontendController.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\helper_functions\CompileRequest.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\helper_functions\CompileResponse.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\helper_functions\LexerTokenResponse.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\QuantumCircuit.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\QuantumCircuitGenerator.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\QuantumLexer.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\QuantumParser.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\controller\QuantumSemanticAnalyzer.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\QuantumIdeBackendApplication.java
+C:\Users\megan\quantum-ide\quantum-ide-backend\src\main\java\com\example\quantum_ide_backend\service\CircuitService.java
